@@ -2,7 +2,7 @@
 Queries used for Tableau Project
 */
 
-
+Tableau Visualization: https://public.tableau.com/app/profile/ayobami.ajeleke
 
 -- 1. 
 
